@@ -1,0 +1,3 @@
+# Byte for byte: files are checked by their sha256 (croissant.json, SHA256SUMS, boards),
+# so git never rewrites their line endings.
+* -text
